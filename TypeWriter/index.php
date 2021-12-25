@@ -10,8 +10,6 @@
     <link rel="stylesheet" href="../../Framework/fontawesome/css/all.css">
     <link rel="stylesheet" href="../../Framework/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-
-</head>
 <style>
     * {
         margin: 0;
@@ -41,6 +39,8 @@
 
     }
 </style>
+</head>
+
 
 <body>
     <!-- 
